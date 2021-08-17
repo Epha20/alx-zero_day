@@ -1,1 +1,1 @@
-This is the second directory
+This is the second directory for now
